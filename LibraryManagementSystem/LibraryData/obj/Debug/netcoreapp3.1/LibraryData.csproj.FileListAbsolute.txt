@@ -1,0 +1,10 @@
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.json
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.dev.json
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csprojAssemblyReference.cache

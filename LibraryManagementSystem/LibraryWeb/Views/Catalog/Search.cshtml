@@ -1,0 +1,10 @@
+﻿
+@{
+    Layout = null;
+}
+
+@using (Html.BeginForm("Searching", "Catalog", FormMethod.Get))
+{
+    @Html.TextBox("searchquery")
+    <input type="submit" value="Search" />
+}

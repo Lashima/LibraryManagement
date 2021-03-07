@@ -1,0 +1,13 @@
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.deps.json
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.dll
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.AssemblyInfoInputs.cache
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.AssemblyInfo.cs
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csprojAssemblyReference.cache
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.runtimeconfig.json
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.runtimeconfig.dev.json
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.pdb
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csproj.CopyComplete
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.dll
+C:\Users\lashima\source\repos\LibraryManagementSystem\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.pdb
